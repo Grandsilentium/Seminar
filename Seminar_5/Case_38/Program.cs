@@ -25,7 +25,6 @@ while (index < size)
 }
 int result = max - min;
 
-
 Console.Write($"-> {result}");
 
 
